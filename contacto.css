@@ -1,0 +1,79 @@
+body{
+    font-family: "Exo 2", sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.imgheader{
+    width: 300px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    text-decoration: none;
+}
+/* __________________________________________________ */
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+label{
+    margin-right: 20px;
+    
+}
+input{
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.nombre, .asunto, .mensaje{
+    display: flex;
+    justify-content: center;
+}   
+.correo{
+    display: flex;
+    justify-content: center;
+}
+.emailinput{
+    margin-left: 30px;
+}
+.mensaje .labelmensaje{
+    align-content: center ;
+}
+.textarea{
+    margin-left: 20px;
+}
+.button{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.submit, .reset{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* __________________________________________________ */
+p{
+    display: flex;
+    justify-content: center; 
+}
+
+.reinicio{
+    display: flex;
+    justify-content: center; 
+}
+/* ___________________________________________________*/

@@ -1,0 +1,56 @@
+body{
+    font-family: "Exo 2", sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.imgheader{
+    width: 300px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    text-decoration: none;
+}
+/* __________________________________________________ */
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+.imgfigure{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imgbody{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.caption{
+    display: flex;
+    justify-content: center; 
+}
+p{
+    display: flex;
+    justify-content: center; 
+}
+
+.reinicio{
+    display: flex;
+    justify-content: center; 
+}
